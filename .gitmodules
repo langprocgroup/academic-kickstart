@@ -5,3 +5,7 @@
 	path = langprocgroup.github.io
 	url = https://github.com/langprocgroup/langprocgroup.github.io.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/langprocgroup/langprocgroup.github.io.git
+	branch = master
